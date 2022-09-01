@@ -5,7 +5,6 @@ C:\Users\Sami\source\repos\HotDrinkVendingMachine\HotDrinkVendingMachine\bin\Deb
 C:\Users\Sami\source\repos\HotDrinkVendingMachine\HotDrinkVendingMachine\bin\Debug\netcoreapp3.1\HotDrinkVendingMachine.dll
 C:\Users\Sami\source\repos\HotDrinkVendingMachine\HotDrinkVendingMachine\bin\Debug\netcoreapp3.1\HotDrinkVendingMachine.pdb
 C:\Users\Sami\source\repos\HotDrinkVendingMachine\HotDrinkVendingMachine\obj\Debug\netcoreapp3.1\HotDrinkVendingMachine.csproj.AssemblyReference.cache
-C:\Users\Sami\source\repos\HotDrinkVendingMachine\HotDrinkVendingMachine\obj\Debug\netcoreapp3.1\HotDrinkVendingMachine.Form1.resources
 C:\Users\Sami\source\repos\HotDrinkVendingMachine\HotDrinkVendingMachine\obj\Debug\netcoreapp3.1\HotDrinkVendingMachine.csproj.GenerateResource.cache
 C:\Users\Sami\source\repos\HotDrinkVendingMachine\HotDrinkVendingMachine\obj\Debug\netcoreapp3.1\HotDrinkVendingMachine.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Sami\source\repos\HotDrinkVendingMachine\HotDrinkVendingMachine\obj\Debug\netcoreapp3.1\HotDrinkVendingMachine.AssemblyInfoInputs.cache
@@ -14,3 +13,4 @@ C:\Users\Sami\source\repos\HotDrinkVendingMachine\HotDrinkVendingMachine\obj\Deb
 C:\Users\Sami\source\repos\HotDrinkVendingMachine\HotDrinkVendingMachine\obj\Debug\netcoreapp3.1\HotDrinkVendingMachine.dll
 C:\Users\Sami\source\repos\HotDrinkVendingMachine\HotDrinkVendingMachine\obj\Debug\netcoreapp3.1\HotDrinkVendingMachine.pdb
 C:\Users\Sami\source\repos\HotDrinkVendingMachine\HotDrinkVendingMachine\obj\Debug\netcoreapp3.1\HotDrinkVendingMachine.genruntimeconfig.cache
+C:\Users\Sami\source\repos\HotDrinkVendingMachine\HotDrinkVendingMachine\obj\Debug\netcoreapp3.1\HotDrinkVendingMachine.HotDrinkVendingMachineForm.resources
